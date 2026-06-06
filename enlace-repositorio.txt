@@ -1,0 +1,14 @@
+ENLACE REPOSITORIO GITHUB - Conociendo.com API REST
+Evidencia: GA7-220501096-AA5-EV01
+Aprendiz: Nancy Mosquera
+
+Repositorio: https://github.com/nancyomp-cmyk/conociendo-auth-api
+
+Endpoints del servicio web Postman:
+POST http://localhost:8081/api/auth/registro  → Registro de usuario
+POST http://localhost:8081/api/auth/login     → Inicio de sesion
+GET  http://localhost:8081/api/auth/estado    → Estado del servicio
+
+Credenciales de prueba:
+Email: nancy@conociendo.com
+Password: nancy2024
